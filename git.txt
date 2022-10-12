@@ -1,2 +1,3 @@
 Aaaaaaaa
 テキスト変更
+GitHub branchで操作→プッシュ→プルリク
